@@ -1,0 +1,7 @@
+Package: windows7
+Version: V27
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Finleygrzyb766
+Description: Installs Windows 7 downloads folder for use on Debian systems.
